@@ -6,4 +6,4 @@
   <li>Адаптивная верстка</li>
 </ul>
 <br/>
-<a>https://alohhhis.github.io/positivus/</a>
+<a href="https://alohhhis.github.io/positivus/">https://alohhhis.github.io/positivus/</a>
